@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 /.idea/
+/data/*
+/LD2011_2014.txt
